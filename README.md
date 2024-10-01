@@ -1,4 +1,4 @@
-##  park jun hyeo 
+## 박 준 현
 
 ![Sungbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkkkkjuneHyeon&show_icons=true&theme=dark)
 
