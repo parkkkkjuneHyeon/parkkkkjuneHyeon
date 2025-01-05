@@ -12,7 +12,8 @@
 ### 🌟 Let's Connect 🌟
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/parkkkkjuneHyeon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gktkwk1108@gmail.com)
-[![blog](https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=gmail&logoColor=white)](https://gktkwkdaim.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white)](https://gktkwkdaim.tistory.com/)
+
 
 <!--
 **parkkkkjuneHyeon/parkkkkjuneHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
